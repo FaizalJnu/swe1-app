@@ -1,0 +1,9 @@
+.venv/
+*.sqlite3
+__pycache__/
+.elasticbeanstalk/
+.env
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
