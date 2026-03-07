@@ -27,6 +27,6 @@ deploy:
     region: "us-east-1" 
     app: "swe1-app"
     env: "swe1-app-env"
-    bucket: "swe-app-bucket"
+    bucket: "swe-app-bucket-faiz"
     on:
       branch: main
